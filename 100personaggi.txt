@@ -1,0 +1,800 @@
+Nome: Luca "il Vento" Ferri
+Descrizione: Esperto in auto di lusso, opera tra aste e concessionarie. Famoso per i furti "puliti", lascia sempre i veicoli impeccabili.
+Regione: Lombardia
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 36
+Motivazione: Business
+-
+Nome: Michela Riva
+Descrizione: Cresciuta in un quartiere difficile, ha imparato a scassinare serrature da adolescente. Specializzata in utilitarie rubate su commissione.
+Regione: Lazio
+Sesso: Femmina
+Cittadinanza: Italiana
+Età: 29
+Motivazione: Necessità
+-
+Nome: Ahmed Khalifi
+Descrizione: Meccanico disoccupato, si è avvicinato ai furti per necessità. Lavora con una banda che esporta auto rubate nei Balcani.
+Regione: Emilia-Romagna
+Sesso: Maschio
+Cittadinanza: Marocchina
+Età: 34
+Motivazione: Necessità
+
+Nome: Giovanni "Nanni" Ruggiero
+Descrizione: Vecchio lupo della strada, ruba solo modelli d'epoca per ricchi collezionisti. Ha una passione per le Alfa Romeo.
+Regione: Campania
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 52
+Motivazione: Adrenalina
+-
+Nome: Elena Vasile
+Descrizione: Specialista nei furti nei parcheggi dei centri commerciali. Sfrutta la distrazione dei clienti per colpire con rapidità.
+Regione: Veneto
+Sesso: Femmina
+Cittadinanza: Rumena
+Età: 26
+Motivazione: Business
+-
+Nome: Salvatore Grasso
+Descrizione: Ex carrozziere, modifica il telaio e i documenti delle auto rubate. Ha contatti con trafficanti in Spagna.
+Regione: Sicilia
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 42
+Motivazione: Business
+-
+Nome: Damiano "Dama" Conti
+Descrizione: Esperto in elettronica, si infiltra nei sistemi keyless per rubare SUV senza lasciare tracce. Lavora su commissione.
+Regione: Piemonte
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 31
+Motivazione: Business
+-
+Nome: Aisha Boulard
+Descrizione: Cresciuta in un campo nomadi, è specializzata in furti lampo ai semafori. Guida in modo spericolato per seminare la polizia.
+Regione: Toscana
+Sesso: Femmina
+Cittadinanza: Francese
+Età: 23
+Motivazione: Adrenalina
+-
+Nome: Francesco "Ciccio" De Santis
+Descrizione: Rapinatore improvvisato, ruba auto per evadere la legge. Non ha una vera tecnica, ma sa guidare come un professionista.
+Regione: Puglia
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 38
+Motivazione: Adrenalina
+-
+Nome: Bogdan Petrescu
+Descrizione: Lavora per una gang specializzata in SUV di fascia alta. I suoi colpi sono pianificati nei minimi dettagli.
+Regione: Liguria
+Sesso: Maschio
+Cittadinanza: Moldava
+Età: 30
+Motivazione: Business
+-
+Nome: Alessandro "Sasha" De Luca
+Descrizione: Un ex meccanico di Napoli con problemi di debiti, ha iniziato a rubare auto di lusso per saldare i conti con strozzini locali. Esperto nel bypassare antifurti elettronici.
+Regione: Campania
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 37
+Motivazione: Necessità
+-
+Nome: Lorenzo "Lollo" Righi
+Descrizione: Giovane torinese cresciuto in una famiglia di piccoli criminali, specializzato nel rubare SUV parcheggiati nelle zone residenziali per rivenderli all’estero.
+Regione: Piemonte
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 25
+Motivazione: Business
+-
+Nome: Tiziana Martelli
+Descrizione: Un’ex impiegata licenziata, si è unita a una banda di ricettatori a Milano. Usa il suo aspetto insospettabile per sottrarre auto con documenti falsificati.
+Regione: Lombardia
+Sesso: Femmina
+Cittadinanza: Italiana
+Età: 41
+Motivazione: Necessità
+-
+Nome: Goran Petrovic
+Descrizione: Ex camionista serbo stabilitosi a Bologna, ruba auto di fascia media per il mercato nero dell’Europa orientale. Veloce ed efficiente, cambia targhe in pochi minuti.
+Regione: Emilia-Romagna
+Sesso: Maschio
+Cittadinanza: Serba
+Età: 45
+Motivazione: Business
+-
+Nome: Massimo "Macio" Ferretti
+Descrizione: Romano con una lunga fedina penale, si è specializzato nelle auto d’epoca. Le ruba su commissione per facoltosi collezionisti.
+Regione: Lazio
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 50
+Motivazione: Adrenalina
+-
+Nome: Jasmine Rahmani
+Descrizione: Di origini marocchine, lavora in una concessionaria a Firenze. Usa il suo accesso privilegiato per sottrarre chiavi e facilitare furti mirati.
+Regione: Toscana
+Sesso: Femmina
+Cittadinanza: Italiana (origini marocchine)
+Età: 29
+Motivazione: Business
+-
+Nome: Daniele "Danno" Spina
+Descrizione: Pugliese con un passato in riformatorio, ruba motorini e piccole utilitarie per corse clandestine o per rivenderle smontate.
+Regione: Puglia
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 22
+Motivazione: Adrenalina
+-
+Nome: Svetlana Kozlova
+Descrizione: Trasferitasi a Trieste dalla Russia, lavora con gruppi criminali dell’Est Europa. Abile nel rubare auto sportive e farle sparire entro poche ore.
+Regione: Friuli-Venezia Giulia
+Sesso: Femmina
+Cittadinanza: Russa
+Età: 35
+Motivazione: Business
+-
+Nome: Ettore "Edo" Calvani
+Descrizione: Ex pilota di rally di Bologna, ha perso tutto a causa di scommesse. Ora ruba auto per ripagare i suoi debiti con la malavita locale.
+Regione: Emilia-Romagna
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 42
+Motivazione: Necessità
+-
+Nome: Nico "Il Fantasma" Bressan
+Descrizione: Abile hacker veneziano, non ruba fisicamente auto ma clona chiavi elettroniche e fornisce codici per il furto a bande organizzate.
+Regione: Veneto
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 31
+Motivazione: Business
+-
+Nome: Luca "il Fantasma" Moretti
+Descrizione: Specialista nel furto di SUV di lusso, colpisce nei parcheggi di centri commerciali. Attento ai dettagli, usa dispositivi elettronici per neutralizzare gli allarmi.
+Regione: Lombardia
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 32
+Motivazione: Business
+-
+Nome: Antonio "Nino" Esposito
+Descrizione: Esperto nello scasso, predilige auto d’epoca per il mercato nero. Lavora con una piccola rete di ricettatori.
+Regione: Campania
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 45
+Motivazione: Business
+-
+Nome: Svetlana Kovalenko
+Descrizione: Ex meccanica, ruba auto per rivenderne i pezzi. Ha una rete di contatti nei cantieri e nelle officine abusive.
+Regione: Emilia-Romagna
+Sesso: Femmina
+Cittadinanza: Ucraina
+Età: 38
+Motivazione: Business
+-
+Nome: Gianni "Lo Zingaro" Stefanelli
+Descrizione: Vive in roulotte e punta le utilitarie per rivenderle nei mercatini clandestini. Rapidissimo con i grimaldelli.
+Regione: Lazio
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 29
+Motivazione: Necessità
+-
+Nome: Mihai Popescu
+Descrizione: Specializzato nel furto di auto aziendali, usa furgoni per trasportare i veicoli rubati all’estero.
+Regione: Piemonte
+Sesso: Maschio
+Cittadinanza: Rumena
+Età: 41
+Motivazione: Business
+-
+Nome: Elena Rizzi
+Descrizione: Fa la barista di giorno, ma di notte fornisce informazioni su auto di lusso nei quartieri benestanti. Lavora con bande locali.
+Regione: Toscana
+Sesso: Femmina
+Cittadinanza: Italiana
+Età: 27
+Motivazione: Business
+-
+Nome: Karim El Bakri
+Descrizione: Esperto di elettronica, si occupa di hacking delle centraline per accedere a veicoli moderni senza danni visibili.
+Regione: Veneto
+Sesso: Maschio
+Cittadinanza: Marocchina
+Età: 34
+Motivazione: Business
+-
+Nome: Roberto "Bobo" De Santis
+Descrizione: Giovane spericolato, ruba per divertimento e sfide tra coetanei. Preferisce auto sportive da guidare prima di abbandonarle.
+Regione: Puglia
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 22
+Motivazione: Adrenalina
+-
+Nome: Tatiana Makarova
+Descrizione: Falsa autista VTC, ruba le auto dei clienti facendoli scendere con una scusa per poi sparire.
+Regione: Liguria	
+Sesso: Femmina
+Cittadinanza: Russa
+Età: 36
+Motivazione: Business
+-
+Nome: Salvatore "Totò" Russo
+Descrizione: Ex carrozziere, ruba auto incidentate per farle sparire nei circuiti di demolizione clandestina.
+Regione: Sicilia
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 50
+Motivazione: Business
+-
+Nome: Andrea "Il Meccanico" Rinaldi
+Descrizione: Ex meccanico con problemi economici, ha iniziato a rubare auto di lusso su commissione. Esperto nello sbloccare i sistemi di sicurezza.
+Regione: Lombardia
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 42
+Motivazione: Necessità
+-
+Nome: Marco Lorusso
+Descrizione: Cresciuto in strada, ha affinato l’arte di scassinare auto per rivenderle all’estero. Famoso per la sua rapidità nel bypassare le centraline.
+Regione: Puglia
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 29
+Motivazione: Business
+-
+Nome: Elena Russo
+Descrizione: Autista abilissima, specializzata nei furti "a strappo": ruba auto accese e scappa prima che il proprietario reagisca.
+Regione: Lazio
+Sesso: Femmina
+Cittadinanza: Italiana
+Età: 34
+Motivazione: Adrenalina
+-
+Nome: Dumitru "Dima" Cojocaru
+Descrizione: Ladro di auto di alta gamma, smonta e spedisce i pezzi all’estero. Vive ai margini della legalità tra capannoni e sfasciacarrozze.
+Regione: Piemonte
+Sesso: Maschio
+Cittadinanza: Rumena
+Età: 37
+Motivazione: Business
+-
+Nome: Sara Bellucci
+Descrizione: Affascinante e scaltra, usa il proprio charme per distrarre i proprietari e portare via le auto con una semplicità sconcertante.
+Regione: Toscana
+Sesso: Femmina
+Cittadinanza: Italiana
+Età: 31
+Motivazione: Business
+-
+Nome: Alessandro "Santo" Santoro
+Descrizione: Hacker dei sistemi elettronici delle auto, riesce a sbloccare anche i modelli più moderni senza lasciare tracce. Lavora per il crimine organizzato.
+Regione: Campania
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 27
+Motivazione: Business
+-
+Nome: Viktor Pavlenko
+Descrizione: Ex camionista, ruba SUV e furgoni per rivenderli nel mercato nero dell’Est Europa. Guida senza paura, anche contromano se necessario.
+Regione: Veneto
+Sesso: Maschio
+Cittadinanza: Ucraina
+Età: 45
+Motivazione: Business
+-
+Nome: Carmela "Mela" Di Lauro
+Descrizione: Figlia di un noto ladro d’auto, ha ereditato l’abilità del padre. Specializzata in auto di fascia media da rivendere nei quartieri popolari.
+Regione: Sicilia
+Sesso: Femmina
+Cittadinanza: Italiana
+Età: 25
+Motivazione: Business
+-
+Nome: Sergio "Il Professore" Montanari
+Descrizione: Colto e raffinato, ruba solo auto d’epoca. Considera il furto un’arte e seleziona i modelli con cura, rivendendoli a collezionisti.
+Regione: Emilia-Romagna
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 52
+Motivazione: Adrenalina
+-
+Nome: Youssef Ben Salah
+Descrizione: Lavora come parcheggiatore abusivo, ma la notte si dedica ai furti. Preferisce auto piccole e discrete, facili da rivendere.
+Regione: Liguria
+Sesso: Maschio
+Cittadinanza: Marocchina
+Età: 39
+Motivazione: Necessità
+-
+Nome: Luca "Il Falco" Marchesi
+Descrizione: Cresciuto nei quartieri popolari, ha iniziato rubando motorini per poi specializzarsi in auto di lusso. Esperto di centraline elettroniche, è noto per i furti puliti e veloci.
+Regione: Lazio
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 32
+Motivazione: Business
+-
+Nome: Goran Petrovic
+Descrizione: Ex meccanico serbo, si è trasferito in Italia dopo la crisi economica. Lavora in una carrozzeria di giorno, ma di notte smonta auto rubate per rivendere i pezzi.
+Regione: Emilia-Romagna
+Sesso: Maschio
+Cittadinanza: Serba
+Età: 40
+Motivazione: Business
+-
+Nome: Sabrina De Santis
+Descrizione: Cresciuta tra criminali, ha sviluppato un talento nel truccare i numeri di telaio. Ruba solo auto di fascia media per non attirare troppo l’attenzione.
+Regione: Campania
+Sesso: Femmina
+Cittadinanza: Italiana
+Età: 28
+Motivazione: Business
+-
+Nome: Rachid Ben Youssef
+Descrizione: Arrivato dal Marocco da adolescente, ha imparato a forzare serrature lavorando nei garage abusivi. Preferisce le utilitarie, facili da piazzare sul mercato nero.
+Regione: Lombardia
+Sesso: Maschio
+Cittadinanza: Marocchina
+Età: 35
+Motivazione: Necessità
+-
+Nome: Nicola "Nico" Ventura
+Descrizione: Un passato in riformatorio e un presente tra le officine clandestine. È il pilota del gruppo, specializzato in fughe ad alta velocità.
+Regione: Puglia
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 26
+Motivazione: Adrenalina
+-
+Nome: Elisa Moretti
+Descrizione: Lavora come receptionist in un autonoleggio e usa la sua posizione per segnalare ai complici le auto più appetibili. Ha un talento per i documenti falsi.
+Regione: Toscana
+Sesso: Femmina
+Cittadinanza: Italiana
+Età: 34
+Motivazione: Business
+-
+Nome: Dmitry Volkov
+Descrizione: Hacker russo, specialista in sistemi keyless. Non tocca mai un’auto con le mani, ma fornisce software e dispositivi per i furti.
+Regione: Veneto
+Sesso: Maschio
+Cittadinanza: Russa
+Età: 38
+Motivazione: Business
+-
+Nome: Antonio "Totò" Esposito
+Descrizione: Ladro vecchia scuola, usa ancora il metodo dello "spadino". Preferisce i furgoni e le auto commerciali, facili da rivendere ai trasportatori abusivi.
+Regione: Sicilia
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 50
+Motivazione: Business
+-
+Nome: Sara Bianchi
+Descrizione: Esperta di elettronica, disattiva allarmi e GPS prima ancora che il proprietario si accorga del furto. Ha studiato ingegneria prima di deviare sulla strada sbagliata.
+Regione: Piemonte
+Sesso: Femmina
+Cittadinanza: Italiana
+Età: 29
+Motivazione: Business
+-
+Nome: Mihai Popescu
+Descrizione: Arrivato dalla Romania, guida una banda specializzata nei furti su commissione. Opera soprattutto nelle zone industriali, prendendo auto aziendali.
+Regione: Friuli-Venezia Giulia
+Sesso: Maschio
+Cittadinanza: Rumena
+Età: 42
+Motivazione: Business
+-
+Nome: Gabriele "Gallo" Fabbri
+Descrizione: Esperto meccanico, cresciuto tra officine e circuiti clandestini. Dopo aver perso il lavoro, inizia a rubare auto su commissione per ripagare i debiti di gioco.
+Regione: Lombardia
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 32
+Motivazione: Necessità
+-
+Nome: Danilo Petricci
+Descrizione: Ex operaio licenziato da una fabbrica di automobili, trova nel furto d'auto l'unica via d'uscita dalla disoccupazione. Usa la sua esperienza per sbloccare antifurti sofisticati.
+Regione: Piemonte
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 45
+Motivazione: Necessità
+-
+Nome: Serena "Sere" Marini
+Descrizione: Ragazza di periferia con una passione per i motori. Si specializza nel rubare SUV per una rete criminale che li esporta nei Balcani.
+Regione: Lazio
+Sesso: Femmina
+Cittadinanza: Italiana
+Età: 27
+Motivazione: Business
+-
+Nome: Oleg Balan
+Descrizione: Arrivato in Italia con la promessa di un lavoro onesto, finisce in una banda specializzata nel furto di auto di lusso, spesso smontate e rivendute a pezzi.
+Regione: Emilia-Romagna
+Sesso: Maschio
+Cittadinanza: Moldava
+Età: 34
+Motivazione: Business
+-
+Nome: Francesco "Ciccio" Mantovani
+Descrizione: Autista di una gang, ruba auto per poi usarle nei colpi. Specializzato in vetture ad alte prestazioni, non resiste alla tentazione di provare ogni modello.
+Regione: Campania
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 39
+Motivazione: Adrenalina
+-
+Nome: Mirela Stojanović
+Descrizione: Cresciuta in un campo nomadi, è una delle poche donne in una rete di furti d’auto che opera tra Francia e Italia. Agile e veloce, si occupa dei furti nei parcheggi pubblici.
+Regione: Liguria
+Sesso: Femmina
+Cittadinanza: Serba
+Età: 30
+Motivazione: Business
+-
+Nome: Vittorio "Vitto" Leoni
+Descrizione: Meccanico e hacker, si è specializzato nella clonazione delle chiavi elettroniche. Lavora su commissione per clienti facoltosi che vogliono auto di lusso senza pagarle.
+Regione: Veneto
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 41
+Motivazione: Business
+-
+Nome: Rahim El Habib
+Descrizione: Nato e cresciuto in Italia, ma senza documenti, si unisce a un gruppo che ruba auto per ottenere soldi facili. Sa muoversi nei quartieri senza destare sospetti.
+Regione: Toscana
+Sesso: Maschio
+Cittadinanza: Marocchina
+Età: 25
+Motivazione: Necessità
+-
+Nome: Carmela "Carmy" Russo
+Descrizione: Cresciuta in una famiglia criminale, inizia a rubare auto fin da giovanissima. È specializzata nel furto di macchine d’epoca, rivendute a collezionisti.
+Regione: Puglia
+Sesso: Femmina
+Cittadinanza: Italiana
+Età: 36
+Motivazione: Adrenalina
+-
+Nome: Ion Popescu
+Descrizione: Arrivato dall’Est Europa, si infiltra nei cantieri per rubare furgoni e mezzi da lavoro. Li rivende a un prezzo stracciato prima che i proprietari se ne accorgano.
+Regione: Sicilia
+Sesso: Maschio
+Cittadinanza: Rumena
+Età: 38
+Motivazione: Business
+-
+Nome: Davide "Speedy" Mazzocchi
+Descrizione: Un giovane meccanico di periferia con il vizio delle corse clandestine, ruba auto per finanziare la sua passione.
+Regione: Lombardia
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 26
+Motivazione: Adrenalina
+-
+Nome: Rosario "Lesto" Di Franco
+Descrizione: Ex operaio licenziato, si è reinventato come ladro d’auto per rivenderle all’estero. Specializzato in SUV di lusso.
+Regione: Campania
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 40
+Motivazione: Necessità
+-
+Nome: Elena Valdesi
+Descrizione: Cameriera con problemi economici, viene coinvolta in una banda e diventa l’"esca", seducendo i proprietari prima che il complice rubi l’auto.
+Regione: Lazio
+Sesso: Femmina
+Cittadinanza: Italiana
+Età: 31
+Motivazione: Business
+-
+Nome: Tarek Ben Jebli
+Descrizione: Esperto di elettronica, usa dispositivi per hackerare le chiavi digitali delle auto moderne. Arrivato in Italia da bambino, lavora per la criminalità organizzata.
+Regione: Emilia-Romagna
+Sesso: Maschio
+Cittadinanza: Italiana e tunisina
+Età: 29
+Motivazione: Business
+-
+Nome: Massimo "Il Vecchio" Rinaldi
+Descrizione: Storico ladro di auto anni ‘80, ancora attivo grazie alla sua abilità nel forzare serrature e bypassare antifurti meccanici.
+Regione: Piemonte
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 58
+Motivazione: Adrenalina
+-
+Nome: Anastasia Kovalenko
+Descrizione: Esperta pilota, guida le auto rubate fino ai porti per l’esportazione. Vive nell’ombra, lavora solo su commissione.
+Regione: Veneto
+Sesso: Femmina
+Cittadinanza: Ucraina
+Età: 35
+Motivazione: Business
+-
+Nome: Gennaro "Genny" Trapanese
+Descrizione: Giovane cresciuto nei quartieri difficili, specializzato nel furto di moto e scooter, ma ha iniziato a rubare auto per fare il salto di qualità.
+Regione: Campania
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 22
+Motivazione: Adrenalina
+-
+Nome: Sandro Bianchi
+Descrizione: Colletto bianco corrotto, impiegato in una concessionaria d’auto. Fornisce informazioni e copie delle chiavi ai ladri in cambio di una percentuale.
+Regione: Toscana
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 45
+Motivazione: Business
+-
+Nome: Fatima El Fassi
+Descrizione: Studentessa di ingegneria con una doppia vita: usa la sua conoscenza dei sistemi informatici per aiutare i ladri a violare i sistemi di sicurezza delle auto.
+Regione: Lombardia
+Sesso: Femmina
+Cittadinanza: Italiana e marocchina
+Età: 24
+Motivazione: Business
+-
+Nome: Alessio "Fox" Pellegrini
+Descrizione: Leader di una gang specializzata nei furti di auto sportive per ricchi collezionisti. Vive nel lusso senza dare troppo nell’occhio.
+Regione: Lazio
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 38
+Motivazione: Business
+-
+Nome: Luca "Il Lupo" Moretti
+Descrizione: Esperto di furti su commissione, lavora su auto di lusso per la criminalità organizzata. Metodo pulito, senza lasciare tracce.
+Regione: Lombardia
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 38
+Motivazione: Business
+-
+Nome: Giorgia De Santis
+Descrizione: Meccanico autodidatta, smonta e rivende pezzi rubati nei mercati clandestini. Ha iniziato con piccoli furti da adolescente.
+Regione: Lazio
+Sesso: Femmina
+Cittadinanza: Italiana
+Età: 27
+Motivazione: Business
+-
+Nome: Vladislav "Vlad" Petrovic
+Descrizione: Arrivato dall'Est Europa, specializzato in SUV e berline, lavora in una rete internazionale di ricettazione.
+Regione: Emilia-Romagna
+Sesso: Maschio
+Cittadinanza: Serba
+Età: 41
+Motivazione: Business
+-
+Nome: Salvatore "Sasà" Russo
+Descrizione: Figlio di un ex ladro, segue la tradizione familiare. Preferisce auto comuni, facili da vendere senza destare sospetti.
+Regione: Campania
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 31
+Motivazione: Necessità
+-
+Nome: Elisa Mariani
+Descrizione: Studentessa universitaria con una doppia vita, usa le sue conoscenze informatiche per hackerare i sistemi keyless delle auto moderne.
+Regione: Toscana
+Sesso: Femmina
+Cittadinanza: Italiana
+Età: 24
+Motivazione: Business
+-
+Nome: Mustafa Al-Karim
+Descrizione: Specializzato in furti su commissione per clienti del Medio Oriente. Lavora con un team organizzato per esportare auto rubate via nave.
+Regione: Liguria
+Sesso: Maschio
+Cittadinanza: Tunisina
+Età: 35
+Motivazione: Business
+-
+Nome: Rocco "Roccia" Pellegrini
+Descrizione: Ex pugile, lavora come "spaccavetri" nelle città turistiche. Ruba auto parcheggiate per rapine e fughe rapide.
+Regione: Puglia
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 42
+Motivazione: Adrenalina
+-
+Nome: Tatiana Ivanova
+Descrizione: Ex stuntwoman, ruba auto sportive per il brivido e per vendicarsi di ex datori di lavoro nel settore delle corse illegali.
+Regione: Veneto
+Sesso: Femmina
+Cittadinanza: Russa
+Età: 29
+Motivazione: Adrenalina
+-
+Nome: Edoardo "Eddy" Castelli
+Descrizione: Cresciuto in orfanotrofio, ha imparato a rubare per sopravvivere. Si muove nelle periferie con auto clonate.
+Regione: Piemonte
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 34
+Motivazione: Necessità
+-
+Nome: Carmen "La Volpe" Ortega
+Descrizione: Abile manipolatrice, seduce proprietari di auto costose per poi rubarle con inganni e sparire nel nulla.
+Regione: Sicilia
+Sesso: Femmina
+Cittadinanza: Spagnola
+Età: 37
+Motivazione: Business
+-
+Nome: Luca "Il Volpe" Rinaldi
+Descrizione: Ex meccanico, abilissimo a scassinare auto di lusso senza lasciare tracce. Vive di espedienti e colpi rapidi, predilige le zone turistiche.
+Regione: Lazio
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 36
+Motivazione: Business
+-
+Nome: Adelina "Dina" Ferri
+Descrizione: Cresciuta in una famiglia criminale, guida auto rubate per i ricettatori. Specializzata in SUV, ha un talento nel bypassare gli antifurti elettronici.
+Regione: Campania
+Sesso: Femmina
+Cittadinanza: Italiana
+Età: 28
+Motivazione: Business
+-
+Nome: Mihai Petrescu
+Descrizione: Arrivato dall’Est Europa, fa parte di una banda organizzata. Lavora di notte, preleva auto da parcheggi privati con centraline modificate.
+Regione: Lombardia
+Sesso: Maschio
+Cittadinanza: Rumena
+Età: 42
+Motivazione: Business
+-
+Nome: Salvatore "Sasà" Greco
+Descrizione: Figlio di un carrozziere, si occupa di smontare le auto rubate per rivendere i pezzi. Ha conoscenze in diversi porti dove esporta i veicoli interi.
+Regione: Sicilia
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 39
+Motivazione: Business
+-
+Nome: Fatima Ben Khaled
+Descrizione: Esperta hacker, ha scoperto il modo di sbloccare auto con chiavi digitali. Vive di furti su commissione per clienti facoltosi.
+Regione: Emilia-Romagna
+Sesso: Femmina
+Cittadinanza: Tunisina
+Età: 31
+Motivazione: Business
+-
+Nome: Antonio "Toto" Esposito
+Descrizione: Specializzato in auto d’epoca, le ruba su ordinazione per collezionisti senza scrupoli. Ha una fitta rete di contatti nel mondo delle aste illegali.
+Regione: Piemonte
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 50
+Motivazione: Business
+-
+Nome: Yuri Ivanov
+Descrizione: Professionista della fuga, usa solo veicoli rubati per rapine. Cambia targa e aspetto dell'auto in meno di un’ora. Vive ai margini della società.
+Regione: Veneto
+Sesso: Maschio
+Cittadinanza: Russa
+Età: 45
+Motivazione: Adrenalina
+-
+Nome: Giulia "La Gatta" Moretti
+Descrizione: Agisce da sola, punta auto di piccola cilindrata facili da piazzare sul mercato nero. Ha un’incredibile velocità nello scassinare le serrature.
+Regione: Toscana
+Sesso: Femmina
+Cittadinanza: Italiana
+Età: 26
+Motivazione: Business
+-
+Nome: Hassan Al-Masri
+Descrizione: Ex meccanico di una concessionaria, sfrutta le sue conoscenze per clonare chiavi digitali. Ruba SUV per spedirli in Nord Africa.
+Regione: Liguria
+Sesso: Maschio
+Cittadinanza: Egiziana
+Età: 38
+Motivazione: Business
+-
+Nome: Domenico "Mimmo" Ricci
+Descrizione: Autista per bande criminali, specializzato in fughe ad alta velocità. Ruba auto sportive per usarle nei colpi e poi le incendia per non lasciare tracce.
+Regione: Puglia
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 34
+Motivazione: Adrenalina
+-
+Nome: Giulio "Lo Smilzo" Conti
+Descrizione: Un giovane scaltro di periferia, specializzato in furti rapidi e puliti. Lavora su commissione per ricettatori locali e cambia spesso città.
+Regione: Lazio
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 26
+Motivazione: Business
+-
+Nome: Alessandra "Alex" Moretti
+Descrizione: Ex meccanica, si è lasciata coinvolgere nei furti per ripagare un debito. È metodica e attenta, evita i rischi inutili.
+Regione: Lombardia
+Sesso: Femmina
+Cittadinanza: Italiana
+Età: 32
+Motivazione: Necessità
+-
+Nome: Hassan El-Sayed
+Descrizione: Esperto in elettronica, usa dispositivi per disattivare antifurti avanzati. Opera in una rete di furti organizzati.
+Regione: Emilia-Romagna
+Sesso: Maschio
+Cittadinanza: Egiziana
+Età: 29
+Motivazione: Business
+-
+Nome: Rocco "Il Vecchio" Di Nardo
+Descrizione: Specialista in furti d'epoca, ruba solo auto classiche per ricettatori d'élite. Ha un codice d’onore: niente violenza.
+Regione: Campania
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 58
+Motivazione: Adrenalina
+-
+Nome: Cristian Dragomir
+Descrizione: Giovane manovale di giorno, ladro di auto di lusso di notte. Agisce su commissione per bande dell’Est Europa.
+Regione: Veneto
+Sesso: Maschio
+Cittadinanza: Rumena
+Età: 24
+Motivazione: Business
+-
+Nome: Elisa Ferretti
+Descrizione: Esperta di hacking automobilistico, ruba auto elettriche sbloccandole da remoto. Lavora in coppia con un ladro sul campo.
+Regione: Toscana
+Sesso: Femmina
+Cittadinanza: Italiana
+Età: 28
+Motivazione: Business
+-
+Nome: Dario "Freddo" Scalia
+Descrizione: Pianifica colpi studiando le routine delle vittime. Non lascia tracce, ruba solo modelli difficili da rintracciare.
+Regione: Sicilia
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 35
+Motivazione: Business
+-
+Nome: Viktor Kovalenko
+Descrizione: Specializzato nei SUV di lusso, li porta in depositi clandestini prima di farli sparire all'estero.
+Regione: Piemonte
+Sesso: Maschio
+Cittadinanza: Ucraina
+Età: 40
+Motivazione: Business
+-
+Nome: Samuele "Sam" Righi
+Descrizione: Ex autista con problemi di gioco, ha iniziato a rubare auto per ripagare debiti. Preferisce furti senza scasso.
+Regione: Marche
+Sesso: Maschio
+Cittadinanza: Italiana
+Età: 37
+Motivazione: Necessità
+-
+Nome: Barbara "Babi" De Santis
+Descrizione: Affascinante e astuta, usa il carisma per distrarre le vittime e sottrarre le chiavi. Colpisce nei locali esclusivi.
+Regione: Liguria
+Sesso: Femmina
+Cittadinanza: Italiana
+Età: 30
+Motivazione: Business
+-
